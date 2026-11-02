@@ -1,0 +1,6 @@
+<div style="width:100%;max-width:980px;margin:0 auto;text-align:center;line-height:0;font-size:0;">
+  <img src="https://raw.githubusercontent.com/wise-lang/wise/main/finance-accounting-20261102-body.jpg" alt="더와이즈 경영지원팀 재무·회계 담당자 채용" width="980" style="display:block;width:100%;max-width:980px;height:auto;border:0;margin:0;">
+  <a href="https://remarkable-soursop-be5.notion.site/THE-WISE-cefca42309b4405b848c5e49fa92144c" target="_blank" rel="noopener noreferrer" style="display:block;border:0;text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/wise-lang/wise/main/space-team-footer-20261022.jpg" alt="더와이즈 회사 소개 보기" width="980" style="display:block;width:100%;max-width:980px;height:auto;border:0;margin:0;">
+  </a>
+</div>
